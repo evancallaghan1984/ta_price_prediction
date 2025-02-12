@@ -1,0 +1,39 @@
+# For Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# For Virtual Environment Directories
+venv/
+.env/
+
+# For Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Environment Variables File (for storing secrets or config values)
+.env
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+
+# Ignore Jupyter Notebook Configuration Files
+.jupyter/
+
+# Editor Backup Files or Auto-saved Versions
+*~
+*.bak
+*.tmp
+
+# Egg Info and Distribution Files
+*.egg-info/
+dist/
+build/
+
+# Ignore .h5 files as they are too big for GitHub
+*.h5
