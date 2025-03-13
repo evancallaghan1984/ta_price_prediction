@@ -21,7 +21,13 @@ Because this model is currentl unprofitable, it will not be immediately put into
 ## Visualizations
     1. ![Feature Importance](visuals/final_model_important_features.png)
         *Top 5 financial valuation features used by the model and their percentage contribution.*
+
+
+  ## Links
+  -  [Google Slides Presentation](https://docs.google.com/presentation/d/1_FdawOPQgTHqiRTw8pNXzseSlssfzFe4NdpMt1__LvY/edit?usp=sharing)
+  - [NASDAQ Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener)
     
+
 ## Repository Navigation
 - [Business Understanding](#business-understanding)
 - [Data Understanding](#data-understanding)
@@ -29,6 +35,7 @@ Because this model is currentl unprofitable, it will not be immediately put into
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
 - [Visualizations](#visualizations)
+- [Links](#links)
 - [Notebook](notebook/capstone_project.ipynb)
 - [Presentation](presentation.pdf)
 - [Visuals](visuals/)
