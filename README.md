@@ -1,4 +1,8 @@
 # Predict Future Stock Prices Using XGBoost and Technical Analysis
+
+## Repository Navigation
+At the end of this README.md is a repository navigation. If you are looking for a specific part of the README.md file or a file/folder in the root directory, you can go to the respository navigation at the bottom of this page and it will provide a link directing you to that part of the repository. For example, if you quickly want to go to the part of the README.md that explains the data preparation, you can go to the repository navigation at the bottom of the page, find where it says "Data Preparation" highlighted in blue and underlined. Click that and it will immediately direct you to the Data Preparation section of the README.md. 
+
 ## Business Understanding
 This project uses XGBoost, a supervised machine learning model, to predict the daily closing price of a stock one week (5 trading days) in the future. The goal is to create a prediction model that consistently results in average yearly returns matching or beating the average yearly return of the S&P500. Using financial tools commonly used by investment professionals to aid in decision making, we gather these tools into one model to train it to predict daily closing price of a stock in 1 week. If successful, this tool would yield a massive edge to anyone who has it, would provide profitable returns on trades, and would be easy to tune or add other features, for when market conditions change.
 
